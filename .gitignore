@@ -1,0 +1,13 @@
+package-lock.json
+test.js
+node_modules/
+database.db-shm
+docs.txt
+database.db-wal
+database.db
+
+# managed by open-wa
+**.data.json
+**.node-persist**
+**_IGNORE_**
+# end managed by open-wa
