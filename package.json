@@ -15,7 +15,7 @@
     "@hapi/boom": "^10.0.1",
     "@open-wa/wa-automate": "^4.76.0",
     "axios": "^1.9.0",
-    "baileys": "github:WhiskeySockets/Baileys",
+   "baileys": "^6.7.18",
     "better-sqlite3": "^11.9.1",
     "body-parser": "^2.2.0",
     "chalk": "^4.1.2",
